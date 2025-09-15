@@ -1,5 +1,5 @@
 # 💫 About Me:
-Hello, I'm Osmany Argueta
+IT professional and Android Developer with experience designing, developing, and testing mobile applications.
 
 
 ## 🌐 Socials:
